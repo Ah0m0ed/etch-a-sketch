@@ -62,7 +62,7 @@ etch-a-sketch\
 
 
 # 🎓 Learning Outcomes
-- **This project demonstrates:**-
+**This project demonstrates:-**
 
 - DOM manipulation and dynamic element creation
 
