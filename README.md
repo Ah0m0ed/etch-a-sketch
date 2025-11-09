@@ -6,6 +6,8 @@ A browser-based implementation of the classic Etch-A-Sketch drawing toy, built w
 ![HTML](https://img.shields.io/badge/HTML5-Latest-orange)
 ![CSS](https://img.shields.io/badge/CSS3-Styling-blue)
 
+# Project preview
+![Project](./preview.png)
 # 🎨 Features
 -  **Dynamic Grid System:** - Create custom grids from 2x2 to 100x100
 
