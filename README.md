@@ -17,11 +17,11 @@ A browser-based implementation of the classic Etch-A-Sketch drawing toy, built w
 
 - **Interactive Controls:**
 
-- Create/Reset grid
+    - Create/Reset grid
 
-- Switch between drawing modes
+    - Switch between drawing modes
 
-- Real-time button state indicators
+    - Real-time button state indicators
 
 - **Responsive Design:** -Works on various screen sizes
 
@@ -29,8 +29,33 @@ A browser-based implementation of the classic Etch-A-Sketch drawing toy, built w
 View Live Project <!-- Add your live demo link here -->
 
 # 🛠️ Technologies Used
+
 - **HTML5:** - Semantic structure and accessibility
 
 - **CSS3:** - Flexbox, transitions, and hover effects
 
 - **JavaScript (ES6+):** - DOM manipulation, event handling, and dynamic grid generation
+
+# 📁 Project Structure
+etch-a-sketch\
+├── index.html          # Main HTML file\
+├── style.css           # Styles and layout\
+├── script.js           # JavaScript functionality\
+├── PixelifySans-Regular.woff2 # Font file\
+└── README.md           # Project documentation
+
+# 🎯 How to Use
+
+1- **Create a Grid:** - Click "Start" and enter a number between 2-100
+
+2- **Start Drawing:** - Hover over the grid squares to draw
+
+3- **Switch Modes:**
+
+    - **Shading:** - Progressive darkening effect
+
+    - **Rainbow:** - Random color generator
+
+4- **Reset:** - Clear your artwork and start fresh
+
+5- **New Grid:** - Create a different sized grid at any time
