@@ -51,8 +51,6 @@ function start() {
     }
 }
 function reset() {
-    resetBtnColor("shading");
-    resetBtnColor("rainbow");
     let squars = document.querySelectorAll(".square");
     for(let square of squars){
         square.style["background-color"] = "white";
