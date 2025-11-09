@@ -99,4 +99,6 @@ function setBtnColor(btnId) {
 function resetBtnColor(btnId) {
     let btn = document.querySelector(`#${btnId}`);
     btn.classList.remove('btn-active');
+    btn.style["color"] = "black";
+    btn.style["background-color"] = "white";
 }
