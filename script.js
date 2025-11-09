@@ -3,9 +3,13 @@ let buttons = document.querySelector(".buttons");
 buttons.addEventListener("click", function (e) {
     switch (e.target.id) {
         case "start":
+            resetBtnColor("shading");
+            resetBtnColor("rainbow");
             start();
             break;
         case "reset":
+            resetBtnColor("shading");
+            resetBtnColor("rainbow");
             reset();
             break;
         case "shading":
@@ -25,8 +29,6 @@ buttons.addEventListener("click", function (e) {
 });
 
 function start() {
-    resetBtnColor("shading");
-    resetBtnColor("rainbow");
     let grid = parseInt(prompt("Enter a number from 2 to 100 :"));
     sketch.innerHTML = '';
     if (grid <= 100 && grid >= 2) {
