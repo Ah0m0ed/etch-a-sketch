@@ -7,30 +7,30 @@ A browser-based implementation of the classic Etch-A-Sketch drawing toy, built w
 ![CSS](https://img.shields.io/badge/CSS3-Styling-blue)
 
 # 🎨 Features
-- Dynamic Grid System: Create custom grids from 2x2 to 100x100
+-  **Dynamic Grid System:** - Create custom grids from 2x2 to 100x100
 
-- Multiple Drawing Modes:
+- **Multiple Drawing Modes:**
 
-- Shading Mode: Progressive darkening with each interaction (10% increments)
+    - **Shading Mode:** - Progressive darkening with each interaction (10% increments)
 
-- -- Rainbow Mode: -- Random colors for vibrant artwork
+    - **Rainbow Mode:** - Random colors for vibrant artwork
 
-- Interactive Controls:
+- **Interactive Controls:**
 
--Create/Reset grid
+- Create/Reset grid
 
--Switch between drawing modes
+- Switch between drawing modes
 
--Real-time button state indicators
+- Real-time button state indicators
 
--- Responsive Design: -- Works on various screen sizes
+- **Responsive Design:** -Works on various screen sizes
 
 # 🚀 Live Demo
 View Live Project <!-- Add your live demo link here -->
 
 # 🛠️ Technologies Used
--HTML5: Semantic structure and accessibility
+- **HTML5:** - Semantic structure and accessibility
 
--CSS3: Flexbox, transitions, and hover effects
+- **CSS3:** - Flexbox, transitions, and hover effects
 
--JavaScript (ES6+): DOM manipulation, event handling, and dynamic grid generation
+- **JavaScript (ES6+):** - DOM manipulation, event handling, and dynamic grid generation
