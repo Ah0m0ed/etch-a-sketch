@@ -25,6 +25,8 @@ buttons.addEventListener("click", function (e) {
 });
 
 function start() {
+    resetBtnColor("shading");
+    resetBtnColor("rainbow");
     let grid = parseInt(prompt("Enter a number from 2 to 100 :"));
     sketch.innerHTML = '';
     if (grid <= 100 && grid >= 2) {
@@ -47,6 +49,8 @@ function start() {
     }
 }
 function reset() {
+    resetBtnColor("shading");
+    resetBtnColor("rainbow");
     let squars = document.querySelectorAll(".square");
     for(let square of squars){
         square.style["background-color"] = "white";
