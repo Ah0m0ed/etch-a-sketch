@@ -1,7 +1,10 @@
 ## Etch-A-Sketch Web App
 A browser-based implementation of the classic Etch-A-Sketch drawing toy, built with vanilla JavaScript, HTML, and CSS as part of The Odin Project curriculum.
 
-https://img.shields.io/badge/Project-Etch--A--Sketch-blue https://img.shields.io/badge/JavaScript-ES6+-yellow https://img.shields.io/badge/HTML5-Latest-orange https://img.shields.io/badge/CSS3-Styling-blue
+(https://img.shields.io/badge/Project-Etch--A--Sketch-blue)
+(https://img.shields.io/badge/JavaScript-ES6+-yellow)
+(https://img.shields.io/badge/HTML5-Latest-orange)
+(https://img.shields.io/badge/CSS3-Styling-blue)
 
 # 🎨 Features
 - Dynamic Grid System: Create custom grids from 2x2 to 100x100
@@ -10,7 +13,7 @@ https://img.shields.io/badge/Project-Etch--A--Sketch-blue https://img.shields.io
 
 - Shading Mode: Progressive darkening with each interaction (10% increments)
 
---Rainbow Mode:-- Random colors for vibrant artwork
+- -- Rainbow Mode: -- Random colors for vibrant artwork
 
 - Interactive Controls:
 
