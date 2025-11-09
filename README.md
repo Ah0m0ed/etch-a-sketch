@@ -10,7 +10,7 @@ https://img.shields.io/badge/Project-Etch--A--Sketch-blue https://img.shields.io
 
 -Shading Mode: Progressive darkening with each interaction (10% increments)
 
--Rainbow Mode: Random colors for vibrant artwork
+- --Rainbow Mode:-- Random colors for vibrant artwork
 
 -Interactive Controls:
 
